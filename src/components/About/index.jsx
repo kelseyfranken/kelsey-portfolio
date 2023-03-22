@@ -15,7 +15,7 @@ function About(props) {
       
       <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam et lacinia ipsum. Proin et nisl vitae neque tempus varius. Morbi sit amet nisl in ipsum 
-      posuere euismod quis id odio. Curabitur vitae turpis porttitor, commodo lacus ac, auctor arcu. Aliquam gravida posuere mi, sagittis pulvinar 
+      posduere euismod quis id odio. Curabitur vitae turpis porttitor, commodo lacus ac, auctor arcu. Aliquam gravida posuere mi, sagittis pulvinar 
       odio pulvinar at. Morbi hendrerit velit quis elementum consectetur. Integer sed semper justo, nec mollis justo. 
       </p>
       <p>
