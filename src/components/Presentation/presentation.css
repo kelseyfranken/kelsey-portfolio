@@ -1,0 +1,28 @@
+.hero {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  padding-left: 15%;
+  padding-top: 10%;
+}
+
+.hero-content {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+}
+
+.hero-content-title {
+  font-weight: 800;
+}
+
+.hero-content-description {
+  font-size: 17px;
+}
+
+img {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}

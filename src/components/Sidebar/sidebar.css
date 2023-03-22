@@ -1,0 +1,27 @@
+nav {
+  position: fixed;
+  right: 0;
+  bottom: 10%;
+  color: #333138;
+  padding-right: 3%;
+  background-color: transparent;
+}
+
+span {
+  text-decoration: none;
+  color: #829460;
+  font-weight: 700;
+}
+
+span:hover {
+  color: #333138;
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sidebar-element-container {
+  padding-bottom: 10px;
+}
